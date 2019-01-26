@@ -65,9 +65,40 @@ lokasi folder "C:\\.NET Core\dotnet-sdk-2.0.0-win-x64;"
 }  
 - Kendaraan Keluar : 
   -
-  - URL : http://localhost:5000/api/parkir/Kendaraan_Keluar/{No_Slot_Parkir}
+  - URL : http://localhost:5000/api/parkir/Kendaraan_Keluar/{Parameter_No_Slot_Parkir}
   - URL (Contoh) : http://localhost:5000/api/parkir/Kendaraan_Keluar/1
   
  2). Method GET
 -
-- 
+- Buat Ruangan Parkir :
+  -
+  - URL : http://localhost:5000/api/parkir/Buat_Ruangan_Parkir?BanyakSlot={Parameter_Banyak_Slot}
+  - URL (Contoh) : http://localhost:5000/api/parkir/Buat_Ruangan_Parkir?BanyakSlot=6
+- Kendaraan Parkir Berdasarkan No Polisi :
+  -
+  - URL : http://localhost:5000/api/parkir/Kendaraan_Parkir_Berdasarkan_No_Polisi/{Parameter_No_Polisi}
+  - URL (Contoh) : http://localhost:5000/api/parkir/Kendaraan_Parkir_Berdasarkan_No_Polisi/BG-12345-CC
+- Kendaraan Parkir Berdasarkan Warna :
+  -
+  - URL : http://localhost:5000/api/parkir/Kendaraan_Parkir_Berdasarkan_Warna/{Parameter_No_Polisi}
+  - URL (Contoh) : http://localhost:5000/api/parkir/Kendaraan_Parkir_Berdasarkan_Warna/Red
+- Status Ruangan Parkir :
+  -
+  - URL : http://localhost:5000/api/parkir/Status_Ruangan_Parkir
+- Status Ruangan Parkir Berdasarkan Baris Ruangan :
+  -
+  - URL : http://localhost:5000/api/parkir/Status_Ruangan_Parkir/{Parameter_Baris_Ruangan}
+  - URL (Contoh) : http://localhost:5000/api/parkir/Status_Ruangan_Parkir/1
+- Status Ruangan Parkir Berdasarkan Baris Ruangan dan Nomor Slot :
+  -
+  - URL : http://localhost:5000/api/parkir/Status_Ruangan_Parkir/{Parameter_Baris_Ruangan}/{Parameter_Nomor_Slot}
+  - URL (Contoh) : http://localhost:5000/api/parkir/Status_Ruangan_Parkir/1/4
+- Tampil Aktifitas Kendaraan Masuk :
+  -
+  - URL : http://localhost:5000/api/parkir/Tampil_Aktifitas_Kendaraan_Masuk
+- Tampil Aktifitas Kendaraan Keluar :
+  -
+  - URL : http://localhost:5000/api/parkir/Tampil_Aktifitas_Kendaraan_Keluar
+- Tampil Aktifitas Kendaraan Masuk dan Keluar :
+  -
+  - URL : http://localhost:5000/api/parkir/Tampil_Aktifitas_Kendaraan_Masuk_Keluar
