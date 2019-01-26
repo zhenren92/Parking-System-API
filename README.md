@@ -38,7 +38,7 @@ lokasi folder "C:\\.NET Core\dotnet-sdk-2.0.0-win-x64;"
 - Clone atau Download Project "Parking-System-API"
 - Extract Project jika project di download berupa file ".zip", contoh di extract ke "D:\\Parking-System-API\"
 - Buka "Command Prompt" atau "cmd.exe"
-- Masuk ke lokasi folder yang didalamnya memiliki file "Parking-System-API.csproj", contoh di "D:\\Parking-System-API\" dengan cara mengetik "cd D:\\Parking-System-API\" dan kemudian ketik "D:\\"
+- Masuk ke lokasi folder yang didalamnya memiliki file "Parking-System-API.csproj", contoh di "D:\\Parking-System-API\" dengan cara mengetik "cd D:\\Parking-System-API\" dan kemudian ketik "D:"
 
 - 1). ketikkan "dotnet restore" pada "Command Prompt" atau "cmd.exe"
 - 2). ketikkan "dotnet build" pada "Command Prompt" atau "cmd.exe"
