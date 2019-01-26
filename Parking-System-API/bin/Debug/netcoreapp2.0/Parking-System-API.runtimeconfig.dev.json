@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Yanti\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Yanti\\.nuget\\packages",
+      "I:\\Data Project\\.NET Core\\dotnet-sdk-2.0.0-win-x64\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}
