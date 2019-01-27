@@ -3,25 +3,25 @@
 # Requirement Development :
 
 - Visual Studio Code (IDE) : Optional
-  (Link : https://code.visualstudio.com/download)
+  (Link : *[disini](https://code.visualstudio.com/download)*)
   
-- .NET Core 2.0 SDK 64-bit / 32-bit
+- [.NET Core 2.0 SDK (64-bit/32-bit) - (**Required**)](https://github.com/dotnet/core/blob/master/release-notes/download-archives/2.0.0-download.md)
 
-  (Link [64-bit](https://dotnet.microsoft.com/download/thank-you/dotnet-sdk-2.0.0-windows-x64-binaries) | Required) atau 
-  (Alternatif Link [64-bit](https://download.microsoft.com/download/1/B/4/1B4DE605-8378-47A5-B01B-2C79D6C55519/dotnet-sdk-2.0.0-win-x64.zip))
+  (Link ***[64-bit](https://dotnet.microsoft.com/download/thank-you/dotnet-sdk-2.0.0-windows-x64-binaries) Required***) atau 
+  (Alternatif Link *[64-bit](https://download.microsoft.com/download/1/B/4/1B4DE605-8378-47A5-B01B-2C79D6C55519/dotnet-sdk-2.0.0-win-x64.zip)*)
   
-  (Link [32-bit](https://dotnet.microsoft.com/download/thank-you/dotnet-sdk-2.0.0-windows-x86-binaries)) atau 
-  (Alternatif Link [32-bit](https://download.microsoft.com/download/1/B/4/1B4DE605-8378-47A5-B01B-2C79D6C55519/dotnet-sdk-2.0.0-win-x86.zip))
+  (Link *[32-bit](https://dotnet.microsoft.com/download/thank-you/dotnet-sdk-2.0.0-windows-x86-binaries)*) atau 
+  (Alternatif Link *[32-bit](https://download.microsoft.com/download/1/B/4/1B4DE605-8378-47A5-B01B-2C79D6C55519/dotnet-sdk-2.0.0-win-x86.zip)*)
   
 # Requirement Runtime :
  
-- .NET Core 2.0 Runtime 64-bit / 32-bit
+- [.NET Core 2.0 Runtime (64-bit/32-bit)](https://github.com/dotnet/core/blob/master/release-notes/download-archives/2.0.0-download.md)
 
-  (Link [64-bit](https://dotnet.microsoft.com/download/thank-you/dotnet-runtime-2.0.0-windows-x64-binaries)) atau 
-  (Alternatif Link [64-bit](https://download.microsoft.com/download/5/F/0/5F0362BD-7D0A-4A9D-9BF9-022C6B15B04D/dotnet-runtime-2.0.0-win-x64.zip))
+  (Link *[64-bit](https://dotnet.microsoft.com/download/thank-you/dotnet-runtime-2.0.0-windows-x64-binaries)*) atau 
+  (Alternatif Link *[64-bit](https://download.microsoft.com/download/5/F/0/5F0362BD-7D0A-4A9D-9BF9-022C6B15B04D/dotnet-runtime-2.0.0-win-x64.zip)*)
   
-  (Link [32-bit](https://dotnet.microsoft.com/download/thank-you/dotnet-runtime-2.0.0-windows-x86-binaries)) atau
-  (Alternatif Link [32-bit](https://download.microsoft.com/download/5/F/0/5F0362BD-7D0A-4A9D-9BF9-022C6B15B04D/dotnet-runtime-2.0.0-win-x86.zip))
+  (Link *[32-bit](https://dotnet.microsoft.com/download/thank-you/dotnet-runtime-2.0.0-windows-x86-binaries)*) atau
+  (Alternatif Link *[32-bit](https://download.microsoft.com/download/5/F/0/5F0362BD-7D0A-4A9D-9BF9-022C6B15B04D/dotnet-runtime-2.0.0-win-x86.zip)*)
   
   
 # Setting Environment (Hanya untuk OS Windows) :
