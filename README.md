@@ -53,7 +53,7 @@ lokasi folder "C:\\.NET Core\dotnet-sdk-2.0.0-win-x64;"
 
   Application started. Press Ctrl+C to shut down.
   
-- Jika sudah berhasil, maka "API" yang akan digunakan sudah bisa digunakan.
+- Jika sudah berhasil, maka "API" yang akan dijalankan sudah bisa digunakan.
 
 # Service API yang disediakan
 
@@ -80,7 +80,7 @@ lokasi folder "C:\\.NET Core\dotnet-sdk-2.0.0-win-x64;"
   - URL (Contoh) : http://localhost:5000/api/parkir/Buat_Ruangan_Parkir?BanyakSlot=6
 - Kendaraan Parkir Berdasarkan No Polisi :
   -
-  - URL : http://localhost:5000/api/parkir/Kendaraan_Parkir_Berdasarkan_No_Polisi/{Parameter_No_Polisi}
+  - URL : http://localhost:5000/api/parkir/Kendaraan_Parkir_Berdasarkan_No_Polisi/{Warna}
   - URL (Contoh) : http://localhost:5000/api/parkir/Kendaraan_Parkir_Berdasarkan_No_Polisi/BG-12345-CC
 - Kendaraan Parkir Berdasarkan Warna :
   -
